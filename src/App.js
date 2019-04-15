@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+	<div id="root" class="ad-content"><div id="D_VID"></div><div id="D_R2"></div></div>
         </header>
       </div>
     );
